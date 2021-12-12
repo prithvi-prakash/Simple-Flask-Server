@@ -9,7 +9,7 @@ def hello_world():
 
 
 @app.route("/home")
-def hello_world():
+def hello_home():
     return "<p>Hello, World, this is home!</p>"
 
 
